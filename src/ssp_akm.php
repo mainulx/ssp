@@ -1,5 +1,4 @@
 <?php
-namespace Muin\Datatable;
 /*
  * Helper functions for building a DataTables server-side processing SQL query
  *
