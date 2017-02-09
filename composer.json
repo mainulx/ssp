@@ -1,12 +1,17 @@
 {
-    "name": "muinjs/ssp",
-    "description": "Customized ssp Class for jQuery Datatable",
-    "type": "datatable-php",
-    "authors": [
-        {
-            "name": "Mainul Islam Muin",
-            "email": "muinjs@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "muinjs/ssp",
+  "description": "Customized ssp Class for jQuery Datatable",
+  "type": "datatable-php",
+  "authors": [
+    {
+      "name": "Mainul Islam",
+      "email": "muinjs@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "SspBaseDir\\": "src"
+    }
+  }
 }
