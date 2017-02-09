@@ -10,8 +10,8 @@
   ],
   "require": {},
   "autoload": {
-    "psr-4": {
-      "SspBaseDir\\": "src/"
-    }
+    "classmap": [
+      "src"
+    ]
   }
 }
