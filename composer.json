@@ -1,5 +1,5 @@
 {
-    "name": "muin/ssp",
+    "name": "muinjs/ssp",
     "description": "Customized ssp Class for jQuery Datatable",
     "type": "datatable-php",
     "authors": [
@@ -8,7 +8,5 @@
             "email": "muinjs@gmail.com"
         }
     ],
-    "require": {},
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "require": {}
 }
