@@ -1,0 +1,12 @@
+{
+    "name": "muin/ssp",
+    "description": "Customized ssp Class for jQuery Datatable",
+    "type": "cakephp-plugin",
+    "authors": [
+        {
+            "name": "Mainul Islam Muin",
+            "email": "muinjs@gmail.com"
+        }
+    ],
+    "require": {}
+}
