@@ -1,11 +1,11 @@
 {
-  "name": "muinjs/ssp",
+  "name": "muinext/ssp",
   "description": "Customized ssp Class for jQuery Datatable",
   "type": "datatable-php",
   "authors": [
     {
-      "name": "Mainul Islam",
-      "email": "muinjs@gmail.com"
+      "name": "Adnan Muin",
+      "email": "muinext@gmail.com"
     }
   ],
   "require": {},
